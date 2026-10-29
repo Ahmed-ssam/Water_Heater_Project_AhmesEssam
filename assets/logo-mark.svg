@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Water Heater Controller logo">
+<title>Water Heater Controller</title>
+<defs><linearGradient id="g" x1="0" y1="26" x2="0" y2="180" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#38BDF8"/><stop offset=".55" stop-color="#FFB36B"/><stop offset="1" stop-color="#FF5A3C"/></linearGradient></defs>
+<rect width="200" height="200" rx="46" fill="#0E1A24"/>
+<g transform="translate(100 100) scale(.8) translate(-100 -103)"><path d="M100 26 C100 26 44 92 44 124 A56 56 0 0 0 156 124 C156 92 100 26 100 26 Z" fill="url(#g)"/><rect x="93.5" y="86" width="13" height="50" rx="6.5" fill="#0E1A24"/><circle cx="100" cy="139" r="16" fill="#0E1A24"/><rect x="98" y="108" width="4" height="30" rx="2" fill="#FFF3E4"/><circle cx="100" cy="139" r="8" fill="#FFF3E4"/></g>
+</svg>
